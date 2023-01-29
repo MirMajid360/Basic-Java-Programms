@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DuplicateCharacterFromStrong {
+public class DuplicateCharacterFromString {
 
     /** Finding the Duplicate Character from String Programme by Majid Manzoor Mir on 08/10/2022**/
 
